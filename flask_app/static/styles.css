@@ -1,0 +1,27 @@
+* {
+    border: 0px;
+    outline: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.btn-primary:hover {
+    background-color: #6EA8FD;
+    color: white;
+}
+
+.btn-warning:hover {
+    background-color: #FFD969;
+    color: black;
+}
+
+.action-link {
+    border-right: 1px solid black;
+    padding-right: 10px;
+    padding-left: 5px;
+}
+
+.action-link:last-of-type {
+    border-right: none;
+    padding-left: 5px;
+}
